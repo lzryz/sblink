@@ -5,8 +5,8 @@
 // @author       lazar
 // @match        https://www.sorozatbarat.club/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sorozatbarat.club
-// @updateURL    https://github.com/lzryz/vodadisable/blob/main/change.js
-// @downloadURL  https://github.com/lzryz/vodadisable/blob/main/change.js
+// @updateURL    https://github.com/lzryz/sblink/blob/main/sblink.js
+// @downloadURL  https://github.com/lzryz/sblink/blob/main/sblink.js
 // @grant        none
 // ==/UserScript==
 
